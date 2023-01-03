@@ -14,5 +14,5 @@ public class StopWatch {
 		char m=sc.next().charAt(0);
 		end=System.currentTimeMillis();
 		tim=(end-start)/1000.0;
-		System.out.println(tim);
+		System.out.println(tim)
 	}}
